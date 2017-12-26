@@ -1,9 +1,9 @@
 # Numerical-Analysis
 Code for Numerical Analysis Methods in Python.
 
-I decided to implement all the numerical methods that I learned in my numerical analysis class in Python.
+I decided to implement all the numerical methods that I learned in my numerical analysis class using Python.
 
-All the code used in the book (numerical analysis secnd edition by Timothy Souer) were for Matlab only.
+All the code used in the book (numerical analysis second edition by Timothy Sauer) were for Matlab only.
 
 This can be very useful for undergraduate students taking a numerical analysis class.
 
