@@ -1,6 +1,6 @@
 # Numerical-Analysis
 This project is intended for undergraduate/graduate students taking classes in numerical analysis.
-All the sample code is taken from the book: Numerical Analysis by Timothy Sauer
+All the sample code is implemented using Python. The material is taken from the book: Numerical Analysis by Timothy Sauer.
 
 <strong>Topics:</strong>
 * <strong>Chapter 1:</strong> Solving Equations
