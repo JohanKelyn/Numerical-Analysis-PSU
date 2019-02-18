@@ -3,12 +3,13 @@ This project is intended for undergraduate/graduate students taking classes in n
 All the sample code is taken from the book: Numerical Analysis by Timothy Sauer
 
 <strong>Topics:</strong>
-* Chapter 1: Solving Equations
+* <strong>Chapter 1:</strong> Solving Equations
   - Bisection Method
   - Fixed-Point Iteration
   - Newton's Method
   - Root Finding without Derivatives
-* Chapter 2: System of Equations
+  
+* <strong>Chapter 2:</strong> System of Equations
   - Gaussian Elimination
   - LU Factorization
   - PA=LU Factorization
