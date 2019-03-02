@@ -24,3 +24,7 @@ All the sample code is implemented using Python. The material is taken from the 
   - Newton's Divided Difference
   - Chebyshev Interpolation
   - Cubic Splines
+      - Natural cubic splines
+      - Clamped cubic splines
+      - Parabolically terminated cubic splines
+      - Not-a-knot cubic splines
