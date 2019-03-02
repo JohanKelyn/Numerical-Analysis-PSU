@@ -18,3 +18,9 @@ All the sample code is implemented using Python. The material is taken from the 
   - Cholesky Factorization
   - Conjugate Gradient Method
   - Nonlinear System of Equations (Multivariate Newton's Method and Broyden Method)
+
+* <strong>Chapter 3:</strong> Interpolation
+  - Langrange Interpolating Polynomial
+  - Newton's Divided Difference
+  - Chebyshev Interpolation
+  - Cubic Splines
