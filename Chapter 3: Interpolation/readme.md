@@ -8,7 +8,7 @@ Topics Included:
 
 * Newton's Divided Difference
 
-* Chebyshev Polynomial
+* Chebyshev Nodes
 
 * Splines
   * Natural cubic splines 
