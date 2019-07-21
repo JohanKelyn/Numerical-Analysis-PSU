@@ -4,7 +4,7 @@ The concept of least squares dates from the pioneering work of Gauss and Legendr
 
 In this chapter, the normal equations are introduced and applied to a variety of data fitting problems. More sophisticated approaches such as QR factorization and non-linear least squares will be introduced as well.
 
-Topics
+<strong>Topics:</strong>
 - Normal Equations
 - Survey of Methods
 - QR Factorization
