@@ -31,4 +31,8 @@ All the sample code is implemented using Python. The material is taken from the 
       
  * <strong>Chapter 4:</strong> Least Squares
   - Normal Equations
-  - 
+  - Survey of Models
+  - QR Factorization
+  - Generalized Minimum Residuals (GMRES) Method
+  - Non-Linear Least Squares
+  
