@@ -28,11 +28,10 @@ All the sample code is implemented using Python. The material is taken from the 
       - Clamped cubic splines
       - Parabolically terminated cubic splines
       - Not-a-knot cubic splines
-      
+ 
  * <strong>Chapter 4:</strong> Least Squares
-  - Normal Equations
-  - Survey of Models
-  - QR Factorization
-  - Generalized Minimum Residuals (GMRES) Method
-  - Non-Linear Least Squares
-  
+    - Normal Equations
+    - Survey of Models
+    - QR Factorization
+    - Generalized Minimum Residuals (GMRES) Method
+    - Non-Linear Least Squares
