@@ -4,9 +4,9 @@ Equation Solving is one of the most basic problems in scientific computing. This
 In addition to introducing methods such as Bisection Method, Fixed-Point Iteration, and Newton's Method, we will analyze their rates of convergence. 
 
 Topics Included:
- * Bisection Method
- * Fixed-Point Iteration
- * Newton-Raphson's Method
- * Modified Newton's Method
- * Secant Method
- * Method of False Position
+ 1. Bisection Method
+ 2. Fixed-Point Iteration
+ 3. Newton-Raphson's Method
+ 4. Modified Newton's Method
+ 5. Secant Method
+ 6. Method of False Position
